@@ -1,0 +1,9 @@
+Quoted, not licensed
+
+Falden, Inc. grants no license to anything this identifier marks. It marks two kinds of text that others wrote.
+
+The recorded responses: the files REUSE.toml marks with it under captures/, what GitHub served when this pack's history was captured. They are published as evidence, so that every claim the pack makes from them can be checked.
+
+The quotations: each verbatim quotation of a published source that a page or a file of this pack carries beside the claim it was read for, with the source and the place in it. Where the file takes comments, SPDX snippet tags mark each quotation with this identifier where it stands. A file that takes none, such as a JSON file, is marked in REUSE.toml as holding quotations.
+
+Any right to copy either comes from the law on quotation and from the terms under which its owner published it, not from Falden, Inc.
